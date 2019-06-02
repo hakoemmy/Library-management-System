@@ -21,7 +21,7 @@
 		<link rel="stylesheet" type="text/css" href="../css/styleAddValue.css">
 	</head>
 	<body>
-		<div class="addBookTitle">Add-Book.</div>
+		<div class="addBookTitle">Add-Book</div>
 		<div class="addBookForm">
 			<form action="home.php">
 				<input type="text" name="bookId" required autofocus placeholder="Book-ID" value=<?php echo $lastRow; ?> readonly ><br>
