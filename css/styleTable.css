@@ -1,0 +1,88 @@
+
+table{
+	margin: 5% auto 0 auto;
+	width: 650px;
+	height: 0 auto;
+	overflow: hidden;
+	background: #f1f1f1;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+table tr{
+	width: 100%;
+}
+
+table tr th{
+	background: #3e3e3e;
+	color: #fff !important;
+	font-family: georgia;
+}
+
+table tr th, table tr td{
+	padding: 10px;
+	color: #A0522D;
+	font-family: arial;
+	font-size: 12px;
+	text-align: center;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+table tr td{
+	border-bottom: 2px solid black;
+}
+
+.issuedBookTitle{
+    border: none;
+	padding: 5px 14px;
+	text-align: left;
+	font-size: 18px;
+	color: white;
+	background-color: #2251dd;	
+}
+
+.returnedBookTitle{
+	border: none;
+	padding: 5px 14px;
+	text-align: left;
+	font-size: 18px;
+	color: white;
+	background-color: #2251dd;	
+}
+
+.bookListTitle{
+	border: none;
+	padding: 5px 14px;
+	text-align: left;
+	font-size: 18px;
+	color: white;
+	background-color: #2251dd;
+}
+
+.memberListTitle{
+	border: none;
+	padding: 5px 14px;
+	text-align: left;
+	font-size: 18px;
+	color: white;
+	background-color: #2251dd;
+}
+
+.facultyListTitle{
+	border: none;
+	padding: 5px 14px;
+	text-align: left;
+	font-size: 18px;
+	color: white;
+	background-color: #2251dd;
+}
+
+
+.searchBookList{
+	border: none;
+	padding: 5px 14px;
+	text-align: left;
+	font-size: 18px;
+	color: white;
+	background-color: #2251dd;
+}

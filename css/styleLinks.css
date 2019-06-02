@@ -1,0 +1,23 @@
+
+.links{
+	border: dotted;
+	background: black;
+	color: white;
+}
+
+.welcomeTitle1{
+	float: left;
+	
+	background: transparent;
+	font-size: 18px;
+}
+
+
+.logoutLink{
+	float: left;
+}
+
+.logoutLink1 a{
+	color: white;
+	font-size: 18px;
+}

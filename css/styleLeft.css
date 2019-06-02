@@ -1,0 +1,26 @@
+
+.leftSectionLinks a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	padding-right: 40px;
+}
+
+.leftSectionLinks ul li{
+	list-style-type: none;
+	display: block;
+	padding: 15px;
+	padding-left: 4px;
+	border-bottom: 1px solid #236D7F;
+}
+
+.leftSectionLinks ul li:hover{
+	background: white;
+	transition: linear all 0.40s;
+	margin-left: 5px;
+}
+
+.leftSectionLinks ul li a:hover{
+	color: black;
+}
+

@@ -1,0 +1,56 @@
+.infoContainer{
+	border: none;
+	margin-left: 30px;
+	margin-right: 30px;
+	text-align: left;
+}
+
+.bookName{
+	border: none;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-bottom: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.issuingInfo{
+	border: none;
+  	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 10;
+	margin-bottom: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 22px;
+	color: red;
+	text-align: center;
+	background: #ff9999;
+}
+
+.bookInfo{
+	border: none;
+	font-size: 18px;
+}
+
+.authorLabel{
+	float: left;
+	padding-right: 100px;
+	padding-left: 10px;
+	font-size: 19px;
+}
+
+.priceLabel{
+	float: left;
+	padding-right: 115px;
+	padding-left: 10px;
+	font-size: 19px;
+}
+
+.publisherLabel{
+	float: left;
+	padding-right: 85px;
+	padding-left: 10px;
+	font-size: 19px;
+}

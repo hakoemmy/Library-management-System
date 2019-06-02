@@ -1,0 +1,51 @@
+
+.headContainer{
+  border: none; 
+  height: 210px;
+  background-color: #0000ff;
+}
+
+.logo{
+  border: none;
+  padding: 5px;
+  width: 150;
+  height: 183px;
+  float: left;
+  margin: 5px;
+}
+
+.logo img{
+  width: 150px;
+  height: 180px;
+}
+
+.collegeName{
+  border: none;
+  width: 900px;
+  height: 40px;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 5px;
+  float: right;
+  color: white;
+}
+
+.libTitle1{
+  border: none;
+  width: 900px;
+  height: 43px;
+  font-size: 28px;
+  text-align: center;
+  margin-top: 70px;
+  float: right;
+  color: white;
+}
+.libTitle2{
+  border: none;
+  width: 900px;
+  height: 50px;
+  font-size: 35px;
+  text-align: center;
+  float: right;
+  color: white;
+}

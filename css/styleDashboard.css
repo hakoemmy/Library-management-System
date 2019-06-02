@@ -1,0 +1,17 @@
+
+.containerDashboard{
+	border: none;
+	margin: 0 auto;
+}
+
+.containerDashboard div{
+	width: 140px;
+	height: 30px;
+	margin: 20px;
+	padding: 15px;
+	display: block;
+	text-align: center;
+	border: none;
+	float: left;
+	background: #1A8DA9;
+}
