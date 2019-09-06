@@ -2,10 +2,14 @@
 
 This Library managment system uses the following technologies
 1.Mysql
+
 2.core PHP
+
 3.HTML
+
 4.CSS
-## --------INSTALLATION GUIDE-------- 
+
+##INSTALLATION GUIDE
 
 1. Install Wampserver/Xampp(Enable PHP 7.1.22,Apache 2.4.35,Mysql 5.7.23)
 
@@ -18,4 +22,4 @@ This Library managment system uses the following technologies
 6. Enjoy coding! you are now a developer...
 
 
-### -------------Contributed by Emmanuel H.,Fullstack developer-----------
+### Owner - Emmanuel HAKORIMANA, Fullstack developer
